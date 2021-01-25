@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "chat-app",
+			"path": "../../../../Downloads/chat-app"
+		},
+		{
+			"name": "HTML_CSS",
+			"path": "../../../../HTML_CSS"
+		},
+		{
+			"path": "../../../../ruby"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../drill_app"
+		}
+	],
+	"settings": {}
+}
